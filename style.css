@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://cdn.pixabay.com/photo/2016/08/11/23/55/trees-1587301_960_720.jpg);
+    background-size: cover;
+    color: rgb(4, 4, 4);
+    font-size: 50px;
+  
+    
+}
+.relogio {
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 3%;
+    box-shadow: 0 0 15px 5px black;
+}
+h1 {
+    font-size: 40px;
+    margin: 4rem;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
